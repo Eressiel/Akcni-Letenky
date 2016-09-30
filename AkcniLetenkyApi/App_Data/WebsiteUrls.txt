@@ -1,0 +1,10 @@
+﻿http://www.zaletsi.cz/feed
+http://www.letenkyblog.cz/feed
+https://www.radicestujeme.eu/rss/akcni-letenky.xml
+http://cestujlevne.com/feed/
+https://feeds.feedburner.com/JakNaLetenkycz
+http://www.akcniletenky.com/rss.xml
+http://www.vletenky.com/feed
+http://chytrezajezdy.cz/feed/
+http://www.letenkac.cz/feed/
+http://www.azair.cz/feed/

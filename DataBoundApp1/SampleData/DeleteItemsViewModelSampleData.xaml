@@ -1,0 +1,11 @@
+﻿<vm:DeleteItemsViewModel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:DataBoundApp1.ViewModels">
+
+    <vm:DeleteItemsViewModel.DeleteOptions>
+        "Všechno", "nebo nic"
+    </vm:DeleteItemsViewModel.DeleteOptions>
+
+
+</vm:DeleteItemsViewModel>

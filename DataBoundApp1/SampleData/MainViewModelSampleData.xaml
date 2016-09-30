@@ -1,0 +1,18 @@
+﻿<vm:MainViewModel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:DataBoundApp1.ViewModels"
+    SampleProperty="Sample Text Property Value">
+
+    <vm:MainViewModel.Items>
+        <vm:ItemViewModel Id="0" ArticleTitle="Lufthansa: USA - San Francisco - 12 914 Kč" Date="2016-06-02T14:45:00" Url="http://www.zaletsi.cz/nejakasracka"/>
+        <vm:ItemViewModel Id="1" ArticleTitle="Letenky z Prahy do Miami za 8784 Kč" Date="2016-05-02T14:45:00" Url="http://www.letenkyblog.cz/tel-aviv-za-cenu-3-990kc"/>
+        <vm:ItemViewModel Id="2" ArticleTitle="SEYCHELSKÉ OSTROVY za 7 809 Kč!!!" Date="2016-06-01T14:45:00" Url="http://www.letenkyblog.cz/tel-aviv-za-cenu-3-990kc"/>
+        <vm:ItemViewModel Id="3" ArticleTitle="Eurowings: Mexiko - Cancún - 8 250 Kč" Date="2016-06-01T10:45:00" Url="http://www.letenkyblog.cz/tel-aviv-za-cenu-3-990kc"/>
+        <vm:ItemViewModel Id="4" ArticleTitle="Kanársky ostrov Tenerife s Austrian Airlines za 99 EUR" Date="2016-06-02T09:45:00" Url="http://www.letenkyblog.cz/tel-aviv-za-cenu-3-990kc"/>
+        <vm:ItemViewModel Id="6" ArticleTitle="ŘÍM" Date="2016-06-02T14:00:00" Url="http://www.letenkyblog.cz/tel-aviv-za-cenu-3-990kc"/>
+        <vm:ItemViewModel Id="5" ArticleTitle="Mexiko, Cancún na 12 dní od 13.942 Kč (letenky z Vídně + ubytování)" Date="2016-06-01T08:45:00" Url="http://www.letenkyblog.cz/tel-aviv-za-cenu-3-990kc"/>
+        
+    </vm:MainViewModel.Items>
+
+</vm:MainViewModel>
